@@ -3,7 +3,3 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/aaa.com 
-permissions: 
-  - object: /var/www/html/aaa.com/html
-    pattern: "**"
-    mode: 777
