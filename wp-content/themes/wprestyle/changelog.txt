@@ -1,0 +1,26 @@
+Theme Name:   WPRestyle
+File Name:    Changelog
+Tested up to: 4.1
+Stable tag:	  0.9.3
+
+== Changelog ==
+
+= 0.9.3 =
+* Adjusted code for better handling of wp_title()
+* Code & CSS adjustments for better aesthetics.
+* New screenshot added.
+* Fixed: Bug on site title color clash with background.
+
+= 0.9.2 =
+* Fixed bug with Forum page not rendering correctly.
+* Added styles for BBPress to closely match theme design.
+* Minor CSS adjustments
+
+= 0.9.1 =
+* Adjusted theme prefix as per WPTRT guidelines.
+* Corrected footer credit link url.
+* Corrected CTA checkbox option label.
+* Minor code adjustments.
+
+= 0.9.0 =
+Initial Release 
